@@ -5,3 +5,4 @@ Un blog increible de git y github de platzi
 
 * Creado por Juan Vilchez
 * Incluye ejemplos en Windows
+* Disponible a cualquier momento
