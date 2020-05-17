@@ -4,3 +4,4 @@ Un blog increible de git y github de platzi
 > - Juan
 
 * Creado por Juan Vilchez
+* Incluye ejemplos en Windows
